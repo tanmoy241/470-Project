@@ -1,1 +1,1 @@
-CSE 470 project for University. (Existing Project)
+CSE 470 project
